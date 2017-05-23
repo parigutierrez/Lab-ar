@@ -140,7 +140,7 @@ footer div img{
 footer{
 width: 100%;
 height: 120%;
-padding-bottom: 5%;
+padding-bottom: 2%;
 
 }
 
@@ -151,6 +151,10 @@ hr{
 }
 
 #redes{
-margin-left: 5%;
-margin-top: 20%;
+margin-left: 9%;
+margin-top: 37%;
+}
+
+#copy{
+  margin-left: 5%;
 }
