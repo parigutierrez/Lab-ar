@@ -74,13 +74,50 @@ height: 480px;
 
 #tarifas{
   background-color: #f7b617;
-
 }
 
 #tarifas div div h3, p{
   color: white;
 }
 
-#mapa{
+#tarifas div div h3{
+  margin-top: 25%;
+}
+
+iframe{
   width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#map{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: 1px solid white;
+  border-color: 1px solid white;
+}
+
+input{
+  margin-bottom: 12%;
+}
+
+.form-control{
+  display:inline-flex;
+  width: 75%;
+  height: 40px;
+  margin-left: 8%;
+  background-color: inherit;
+  border-style: outset;
+  font-size: 14px;
+  color: white;
+  border: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+.icono{
+  margin-top: 5%;
+}
+
+#tarifas div div button{
+  margin-left: 28%;
 }
