@@ -69,7 +69,18 @@ height: 480px;
   margin-top: 10%;
   background-color: #142045;
   opacity: 0.6;
-
-
   color: white;
+}
+
+#tarifas{
+  background-color: #f7b617;
+
+}
+
+#tarifas div div h3, p{
+  color: white;
+}
+
+#mapa{
+  width: 100%;
 }
